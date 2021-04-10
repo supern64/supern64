@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello!
+I'm SuperN64. I code mainly in Python, Javascript and Java.  
+I also sometimes code in other languages, but I'm used to the 3 the most.  
+I like to do stupid stuff nobody ever does.  
+I mainly do websites, APIs, Discord bots and the like.  
+Thanks for reading... whatever the hell this is.
 
-<!--
-**supern64/supern64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+print("Hello world!")
+```
+```js
+console.log("Hello world!");
+```
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+```
