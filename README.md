@@ -1,4 +1,4 @@
-## Hello!
+## Hello! o/
 I'm SuperN64. I code mainly in Python, Javascript and Java.  
 I also sometimes code in other languages, but I'm used to the 3 the most.  
 I like to do stupid stuff nobody ever does.  
