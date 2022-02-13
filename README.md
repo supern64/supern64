@@ -1,9 +1,8 @@
 ## Hello! o/
-I'm SuperN64. I code mainly in Python, Javascript and Java.  
-I also sometimes code in other languages, but I'm used to the 3 the most.  
-I like to do stupid stuff nobody ever does.  
+I'm SuperN64. I code mainly in Python, Javascript (with Vue sometimes) and Java.  
+I'm looking into learning Svelte and Rust.  
 I mainly do websites, APIs, Discord bots and the like.  
-Thanks for reading... whatever the hell this is.
+Thanks for reading! *(why did you even?)*
 
 ```python
 print("Hello world!")
