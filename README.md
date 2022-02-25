@@ -17,3 +17,8 @@ public class HelloWorld {
     }
 }
 ```
+```rust
+fn main() {
+    println!("Hello world!");
+}
+```
