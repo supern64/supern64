@@ -12,8 +12,5 @@ Python, JS/TS, Java, Kotlin(?)
 
 ## Obligatory Promotional Banner
 <a href="https://www.youtube.com/@HoshimachiSuisei" target="_blank">
-<img width="64" height="64" alt="今日も" src="https://github.com/user-attachments/assets/81273488-cd12-4b03-b797-1cebc8b4089f" />
-<img width="64" height="64" alt="かわいい" src="https://github.com/user-attachments/assets/e9b9fad7-a4d6-464a-8bdd-3b81438044e2" />
-<img width="64" height="64" alt="！！" src="https://github.com/user-attachments/assets/daca860b-7b6c-4018-b64d-e271367c9077" />
-<img width="64" height="64" alt="！！" src="https://github.com/user-attachments/assets/69766e01-3b12-4010-b70c-3ca97eb2aee1" />
+<img width="256" height="64" alt="今日もかわいい！！" src="https://github.com/user-attachments/assets/70e53a21-cbff-4315-af21-aaf7b2bf65fe" />
 </a>
